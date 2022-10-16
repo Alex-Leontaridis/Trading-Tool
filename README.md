@@ -5,5 +5,5 @@ A terminal based application that can calculate several technical analysis indic
 
 1.
 ```
-pip install reqquirments.txt
+pip install requirments.txt
 ```
