@@ -15,7 +15,7 @@ python3 main.py
 ```
 WARNING: Make sure you have downloaded Python3 on your computer. 
 
-# Indicators (Indicator without X will be available in a future update):
+# Indicators (Indicators without X will be available in a future update):
 - [x] RSI
 - [ ] MACD 
 - [ ] On-Balance Volume
