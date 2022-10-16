@@ -16,10 +16,10 @@ python3 main.py
 WARNING: Make sure you have downloaded Python3 on your computer. 
 
 #Indicators (Indicator with X will be available in a future update):
-- [x] MACD 
-- [ ] RSI
-- [x] On-Balance Volume
-- [x] Accumulation/Distribution Line
-- [x] Average Directional Index
-- [x] Aroon Indicator
-- [x] Stochastic Oscillator
+- [x] RSI
+- [ ] MACD 
+- [ ] On-Balance Volume
+- [ ] Accumulation/Distribution Line
+- [ ] Average Directional Index
+- [ ] Aroon Indicator
+- [ ] Stochastic Oscillator
