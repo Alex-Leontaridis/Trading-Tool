@@ -3,17 +3,13 @@ A terminal based application that can calculate several technical analysis indic
 
 # Installation
 
-1.
-Install all required libraries.
+1. Install all required libraries.
 
-2. 
-On terminal right the following command so that you can run "Trading tool" script:
+2. On terminal right the following command so that you can run "Trading tool" script:
 ```
 cd {Location that you have stored the script}
 ```
-
-3.
-Run the file with the following command:
+3. Run the file with the following command:
 ```
 python3 main.py
 ```
